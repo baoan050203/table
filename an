@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1,
+  "ten":"mặt hàng thứ I",
+  "hinhanh":"hinh1.png",
+  "mota":"hơi non",
+  "giatien":7000000
+ },
+ {
+  "id": 2,
+  "ten":"mặt hàng thứ II",
+  "hinhanh":"hinh2.png",
+  "mota":"giả tạo",
+  "giatien":12000000
+ },
+ {
+  "id": 3,
+  "ten":"mặt hàng thứ III",
+  "hinhanh":"hinh3.png",
+  "mota":"mê ngủ",
+  "giatien":18000000
+ },
+ {
+  "id": 4,
+  "ten":"mặt hàng thứ IV",
+  "hinhanh":"hinh4.png",
+  "mota":"đẹp trai",
+  "giatien":20000000
+ },
+ {
+  "id": 5,
+  "ten":"mặt hàng thứ V",
+  "hinhanh":"hinh5.png",
+  "mota":"há há ",
+  "giatien":26000000
+ }
+  ]
